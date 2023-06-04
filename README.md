@@ -1,1 +1,16 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8597369&assignment_repo_type=AssignmentRepo)
+# able : 디지털 문구 플랫폼 서비스
+
+![image](https://github.com/codesooo/web-design-teamproject/assets/88030238/07874eaf-7aca-4274-8ad0-7cb7d87a14ea)
+
+<br>
+
+## 소개
+최근 태블릿 PC 사용이 많아지면서 필기 어플에서 사용 가능한 필기노트 속지, 
+다이어리 속지, 다이어리 스티커 등의 일명 디지털 문구의 수요가 높아졌다. 따라서
+상품 제작자들이 상품을 등록하여 판매할 수 있는 디지털 문구 플랫폼 서비스를
+고안하였다. 이에 더하여 제작자들의 실시간 공동 작업을 가능하게 함으로써 제작자
+간 소통이나 협업을 보다 쉽게 한다. 
+
+## Credit
+- Node.js
+- ejs
